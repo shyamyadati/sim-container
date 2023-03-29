@@ -1,4 +1,7 @@
 
+# Functions to make running and managing the container a bit more convenient from
+# the CLI
+
 function sim.run()
 {
     docker run -itd \
